@@ -1,0 +1,6 @@
+{
+  "name": "O2 Bulk Flow - Liquid Oxygen Tracking System",
+  "description": "ระบบตรวจสอบและบันทึกค่าก๊าซออกซิเจนเหลว (LOX Bulk Tank Monitor & Verification) CFL(P)-20 รองรับมือถือและคอมพิวเตอร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
